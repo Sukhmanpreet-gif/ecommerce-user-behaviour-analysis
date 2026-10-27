@@ -4,8 +4,7 @@ Regarding the business of e-commerce platforms, every decision takes much financ
 
 ## Dataset
 The original dataset is [User Behavior Data from Taobao for Recommendation](https://tianchi.aliyun.com/dataset/649) from Alibaba. 
-Due to the large dataset size, the original dataset and processed datasets are uploaded and can be accessed on [Google Drive](https://drive.google.com/drive/folders/1OXTEbrnN_HypkcQcYYkCjugKQmtfo15E?usp=sharing).
 
-## Project Pipeline
-![image](https://github.com/xinyuzhang99/E-commerce-User-Behavior-Analysis-and-Modeling/assets/71869595/251e161b-9def-4113-8535-50b36fea0379)
+
+
 
